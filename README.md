@@ -35,6 +35,9 @@
   <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  /> </a>
   <img width="12" />
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <img width="12" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.freepik.com/256/4248/4248443.png?semt=ais_hybrid" alt="mysql" width="40" height="40"/> </a>
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
   <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  /> 
