@@ -29,7 +29,8 @@
   <img width="12" />
   <a href="https://github.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  /> </a>
   <img width="12" />
-  <a href=https://eclipseide.org/"> <img src="https://logowik.com/content/uploads/images/eclipse-ide-icon1720887966.logowik.com.webp" height="35" alt="eclipseIde logo" /> </a>
+  <a href="https://eclipseide.org/"> <img src="https://logowik.com/content/uploads/images/eclipse-ide-icon1720887966.logowik.com.webp" height="35" alt="eclipseIde logo" /> </a>
+  <a href= "https://www.jetbrains.com/idea/download/?section=windows#section=windows"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  /> </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  /> </a>
   <img width="12" />
   <a href="https://code.visualstudio.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  /> </a>
